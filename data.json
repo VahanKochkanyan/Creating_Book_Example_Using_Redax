@@ -1,0 +1,26 @@
+{
+  "books": [
+    {
+      "id": "101",
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "rate": null,
+      "photo": "https://m.media-amazon.com/images/I/81eyr8gG8NL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "102",
+      "title": "Stranger",
+      "author": "Albert Camus",
+      "rate": null,
+      "photo": "https://i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400"
+    }
+  ],
+  "comments": [
+    {
+      "id": "103",
+      "text": "Such a great book",
+      "rate": 5,
+      "book": "101"
+    }
+  ]
+}
